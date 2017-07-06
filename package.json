@@ -1,0 +1,8 @@
+{
+  "name": "HPE",
+  "version": "0.0.1",
+  "dependencies": {
+    "pg": "latest",
+    "pg-promise": "^6.3.1"
+  }
+}
